@@ -1,0 +1,83 @@
+{
+	"results": [{
+		"shortName": "USD",
+		"longName": "Bandarískur dalur",
+		"value": 113.45,
+		"askValue": 0,
+		"bidValue": 0,
+		"changeCur": 0.07,
+		"changePer": 0.06
+	}, {
+		"shortName": "DKK",
+		"longName": "Dönsk króna",
+		"value": 17.683,
+		"askValue": 0,
+		"bidValue": 0,
+		"changeCur": 0.053,
+		"changePer": 0.3
+	}, {
+		"shortName": "EUR",
+		"longName": "Evra",
+		"value": 131.9,
+		"askValue": 0,
+		"bidValue": 0,
+		"changeCur": 0.4,
+		"changePer": 0.3
+	}, {
+		"shortName": "JPY",
+		"longName": "Japanskt Yen",
+		"value": 1.0189,
+		"askValue": 0,
+		"bidValue": 0,
+		"changeCur": null,
+		"changePer": null
+	}, {
+		"shortName": "CAD",
+		"longName": "Kanadískur dalur",
+		"value": 87.34,
+		"askValue": 0,
+		"bidValue": 0,
+		"changeCur": 1.1,
+		"changePer": 1.28
+	}, {
+		"shortName": "NOK",
+		"longName": "Norsk króna",
+		"value": 13.742,
+		"askValue": 0,
+		"bidValue": 0,
+		"changeCur": 0.18,
+		"changePer": 1.3
+	}, {
+		"shortName": "GBP",
+		"longName": "Sterlingspund",
+		"value": 147.9,
+		"askValue": 0,
+		"bidValue": 0,
+		"changeCur": 0.03,
+		"changePer": 0.02
+	}, {
+		"shortName": "CHF",
+		"longName": "Svissneskur franki",
+		"value": 116.92,
+		"askValue": 0,
+		"bidValue": 0,
+		"changeCur": 0.42,
+		"changePer": 0.36
+	}, {
+		"shortName": "SEK",
+		"longName": "Sænsk króna",
+		"value": 12.629,
+		"askValue": 0,
+		"bidValue": 0,
+		"changeCur": 0.099,
+		"changePer": 0.79
+	}, {
+		"shortName": "TWI",
+		"longName": "Trade Weighted Index",
+		"value": 172.13,
+		"askValue": 0,
+		"bidValue": 0,
+		"changeCur": 0.56,
+		"changePer": 0.33
+	}]
+}
