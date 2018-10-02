@@ -5,8 +5,9 @@
 
 
 from sys import argv
-import bottle
+#import bottle
 from bottle import*
+bottle.debug(True)
 import urllib.request, json
 
 
