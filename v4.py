@@ -48,7 +48,7 @@ def static_skra(skra):
 
 @error(404)
 def villa(error):
-    return "<h2 style = color:red>Þessi síða finnst ekki</h2>"
+    return "<h2 style = color:red>dessi sida finnst ekki</h2>"
 
 
 
