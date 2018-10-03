@@ -52,8 +52,7 @@ def villa(error):
 
 
 
-#run(host='localhost', port=8080, reloader=True, debug=True)
-#run(host="localhost", port=8000, debug=True)
+#run(debug=True)
 
 run(host="0.0.0.0", port=os.envirom.get('PORT'))
 #bootle.run(host='0.0.0.0', port=argv[1])
