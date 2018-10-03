@@ -37,9 +37,9 @@ def index():
 def index():
     return template("index2.tpl", data = data)
 
-@route("/Static/<skra>")
-def static_skra(skra):
-    return static_file(skra, root='/static')
+#@route("/Static/<skra>")
+#def static_skra(skra):
+#   return static_file(skra, root='/static')
 
 
 
